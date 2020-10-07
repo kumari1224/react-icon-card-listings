@@ -1,1 +1,1 @@
-# Icon and Card listing
+# Icons and Card listing
